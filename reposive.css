@@ -1,0 +1,23 @@
+/* Reponsividade */
+@media screen and (max-width: 1024px) {
+    input {
+      width: 60%;
+    }
+    .titulo-principal {
+      font-size: 350%; 
+    }
+    
+    .subtitulo {
+      font-size: 150%;
+    }
+
+    .box-skills {
+        width: 70%;       
+      }
+
+      .texto-contato, .texto {
+        width: 60%; 
+      }
+    
+  }
+  
